@@ -1,16 +1,27 @@
 # chat_novo
 
-A new Flutter project.
+#### Simple, Decent & Feature Rich Chatting Application.
 
-## Getting Started
+- Some [ScreenShots](https://drive.google.com/drive/folders/1kUa6DjMyvSmve354mJ8ae4xFCLuVkDis?usp=sharing)
 
-This project is a starting point for a Flutter application.
+### Project Team:
+- [@Rishvanja-27](https://github.com/Rishvanja-27)
+- [@Matrix726](https://github.com/Matrix726)
+- [@sannidhi-hemanth](https://github.com/sannidhi-hemanth)
+- [@adarshanumula7](https://github.com/adarshanumula7)
 
-A few resources to get you started if this is your first Flutter project:
+### Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- V Real-Time Messaging (With Firebase)
+- V Google Sign-In (No account or mobile number needed)
+- V Adding Users using Email Ib
+- V Simple User Profile (with Photo, About, Yast-seen, Created-at)
+- V Message Read Status
+- V Message Delete & Edit Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Technologies Used:
+
+- [Dart](https://dart.dev/guides)
+- [Flutter](https://docs.flutter.dev/)
+- [Firebase](https://firebase.google.com/docs)
+
