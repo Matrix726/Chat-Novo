@@ -18,4 +18,5 @@
 - [Dart](https://dart.dev/guides)
 - [Flutter](https://docs.flutter.dev/)
 - [Firebase](https://firebase.google.com/docs)
+- [Firestore](https://firebase.google.com/docs/firestore)
 
