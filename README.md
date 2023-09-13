@@ -4,12 +4,6 @@
 
 - Some [ScreenShots](https://drive.google.com/drive/folders/1kUa6DjMyvSmve354mJ8ae4xFCLuVkDis?usp=sharing)
 
-### Project Team:
-- [@Rishvanja-27](https://github.com/Rishvanja-27)
-- [@Matrix726](https://github.com/Matrix726)
-- [@sannidhi-hemanth](https://github.com/sannidhi-hemanth)
-- [@adarshanumula7](https://github.com/adarshanumula7)
-
 ### Features:
 
 - V Real-Time Messaging (With Firebase)
